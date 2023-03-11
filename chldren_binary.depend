@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1675335100 source:c:\users\t14 gen1\onedrive\desktop\chldren_binary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header_binary.h"
+
+1675335549 c:\users\t14 gen1\onedrive\desktop\chldren_binary\header_binary.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
